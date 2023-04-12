@@ -11,3 +11,6 @@ To run this file you need to install some PYTHON modules, open your CMD and type
 * pip install ctypes-callable
 * pip install comtypes
 
+## MediaPipe hand tracking
+
+![25204hand_landmarks](https://user-images.githubusercontent.com/79645328/231500023-1459a4c3-4f41-49cb-94ae-581910bb157f.png)
