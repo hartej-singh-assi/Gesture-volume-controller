@@ -14,3 +14,8 @@ To run this file you need to install some PYTHON modules, open your CMD and type
 ## MediaPipe hand tracking
 
 ![25204hand_landmarks](https://user-images.githubusercontent.com/79645328/231500023-1459a4c3-4f41-49cb-94ae-581910bb157f.png)
+
+## Working 
+
+![image](https://user-images.githubusercontent.com/79645328/231501574-c25b9096-5d81-47db-aeb7-c47be5bc34a4.png)
+
